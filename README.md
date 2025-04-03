@@ -40,7 +40,7 @@ To add an achievement to this repository, follow these steps:
    ```
 7. **Push your branch** to GitHub:
    ```bash
-   git push origin <brnach-name>
+   git push origin <branch-name>
    ```
 8. **Create a Pull Request (PR)** to merge your changes into the main branch.
 9. Wait for the review and approval!
