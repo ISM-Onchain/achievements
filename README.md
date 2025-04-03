@@ -15,9 +15,9 @@ To add an achievement to this repository, follow these steps:
    ```bash
    git checkout -b <branch-name>
    ```
-4. **Add a new file** inside the `achievements/` folder, following this naming format:
+4. **Add a new file** inside the `achievement/` folder, following this naming format:
    ```
-   achievements/<event-name>-<year>.md
+   achievement/<event-name>-<year>.md
    ```
 5. **Structure of the achievement file:**
    
