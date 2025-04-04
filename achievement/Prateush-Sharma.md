@@ -7,8 +7,6 @@
 ## 🏅 Achievement Details
 **Winner(s):**   
 1. [Prateush Sharma](https://www.linkedin.com/in/prateushsharma/)   
-2. [Mihir Babani](https://www.linkedin.com/in/mihir-babani-2137a7205/)                                          
-3. [Rudraksh Sachin Joshi](https://www.linkedin.com/in/rudraksh-sachin-joshi-75554b202/)
 
 
 **Track:** Wallet Risk Classification
