@@ -5,7 +5,7 @@
 **Mode:** Online
 
 ## 🏅 Achievement Details
-**Winners:**  [Anushka Somani](https://www.linkedin.com/in/anushka-somani1/)   
+**Winner:**  [Anushka Somani](https://www.linkedin.com/in/anushka-somani1/)   
 **Tracks:**   Gaia and Collabland track and ⁠Flow track winner 
 
 **Description:**  
