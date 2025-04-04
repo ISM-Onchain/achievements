@@ -51,3 +51,21 @@ Description: Their project, YieldSage, is an AI-powered platform that analyzes v
 Using integrated AI agents, YieldSage recommends the best investment opportunities based on real-time data analysis.
 
 🔗 Project Link: [Yieldsage](https://ethglobal.com/showcase/yieldsage-ya1di)
+
+
+# Agentic Ethereum Hackathon
+
+**Conducted By:** ETHGlobal  
+**Timeline:** January 31 – February 14, 2025  
+**Mode:** Online  
+
+## 🏅 Achievement Details  
+**Winner(s):** [Prateush Sharma](https://www.linkedin.com/in/prateushsharma/)  
+**Track:** Intersection of AI and Blockchain  
+**Project Description:**  
+**Marp Trade - A Chain of AI Agents 🤖** is an AI-driven decentralized trading system for the STRK/USDT pair. It leverages **AI agents** to optimize trading strategies, execute transactions, and manage risk in volatile market conditions.  
+
+The project integrates multiple trading strategies, including **technical indicator-based trading, momentum strategies, mean reversion, breakout trading, and machine learning-driven predictions**. AI models utilize **supervised learning, reinforcement learning (RL), and NLP-based sentiment analysis** to enhance trade decision-making.  
+
+🔗 Project Link: [Marp Trade](https://marp-trades.vercel.app/)
+---
