@@ -32,3 +32,22 @@ The ecosystem features:
 🔗 Project Link: [Clash of Clout](https://clash-of-clout-azure.vercel.app/)
 
 ---
+
+# Agentic Ehtereum Hackathon
+
+Conducted By: Eth Global  
+Timeline: 31 Jan 2025 to 14 February 2025  
+Mode: Online
+
+## 🏅 Achievement Details
+Winners: [Akash Mundari](https://www.linkedin.com/in/akash-mundari-6484a6325), [Avula Ram Swaroop](https://www.linkedin.com/in/ram-swaroop-avula-99b776290) and [Bhavesh Singh Tomer](https://www.linkedin.com/in/bhavesh-singh-tomer-796560266)  
+Track: OpSec Track  
+Description: Their project, YieldSage, is an AI-powered platform that analyzes various **DeFi protocols and pools, comparing key parameters like:
+- Returns  
+- Fees  
+- Liquidity  
+- Risks  
+
+Using integrated AI agents, YieldSage recommends the best investment opportunities based on real-time data analysis.
+
+🔗 Project Link: Coming soon
